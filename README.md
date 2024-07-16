@@ -130,7 +130,7 @@ This project sets up a machine learning pipeline to detect Pepsi and CocaCola lo
     - Also added the size of the detected frame and its distance from center 
 
 
-- **Approach Document**: Details of approaches considered, choices made, and reasons.
+- **[Approach Document](https://docs.google.com/document/d/1yjHylb10Zw-bjRMfdSalYwlUE1vO0geP8EUst74EsBg/edit?usp=sharing)**: Details of approaches considered, choices made, and reasons.
 - **Functional Demo**: Video recording and code demonstration.
 
 ## Demo Video
