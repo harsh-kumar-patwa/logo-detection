@@ -90,7 +90,7 @@ output_data = {
 }
 
 # Write the JSON file
-output_json_path = "/content/output_timestamps.json"
+output_json_path = input("Enter the path to the video file (e.g., 'path/to/your/video.mp4'): ")
 with open(output_json_path, "w") as json_file:
     json.dump(output_data, json_file, indent=4)
 
