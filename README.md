@@ -131,8 +131,8 @@ This project sets up a machine learning pipeline to detect Pepsi and CocaCola lo
 
 
 - **[Approach Document](https://docs.google.com/document/d/1yjHylb10Zw-bjRMfdSalYwlUE1vO0geP8EUst74EsBg/edit?usp=sharing)**: Details of approaches considered, choices made, and reasons.
-- **Functional Demo**: Video recording and code demonstration.
+- **[Functional Demo](https://www.loom.com/share/7bde23e19bc24918b630a19ce3ffcc50?sid=a40130c9-3a6c-4244-bdd3-34c25e65d914)**: Video recording and code demonstration.
 
 ## Demo Video
 
-A demonstration video is available at [loom.com](https://loom.com).
+A demonstration video is available at [loom](https://www.loom.com/share/7bde23e19bc24918b630a19ce3ffcc50?sid=a40130c9-3a6c-4244-bdd3-34c25e65d914).
