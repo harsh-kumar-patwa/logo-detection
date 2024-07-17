@@ -21,6 +21,7 @@ center_y = frame_height//2
 # Initialize video writer to save the output video
 output_dir = input("Enter the directory to save the annotated video (e.g., 'path/to/your/directory'): ")
 output_video_path = f"{output_dir}/output_video.mp4"
+output_json_path = input("Enter the path to save the timestamps JSON file (e.g., 'path/to/your/output_timestamp.json'): ")
 fourcc = cv2.VideoWriter_fourcc(*'mp4v')
 video_writer = cv2.VideoWriter(output_video_path, fourcc, frame_rate, (frame_width, frame_height))
 
@@ -90,7 +91,6 @@ output_data = {
 }
 
 # Write the JSON file
-output_json_path = input("Enter the path to the video file (e.g., 'path/to/your/video.mp4'): ")
 with open(output_json_path, "w") as json_file:
     json.dump(output_data, json_file, indent=4)
 
